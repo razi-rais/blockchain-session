@@ -13,6 +13,7 @@ Please have following software installated on your machine:
 * Ganache-cli (https://github.com/trufflesuite/ganache-cli)
 * Truffle (https://github.com/trufflesuite/truffle)
 * Remix (You can accesss it through the website https://remix.ethereum.org)
+* Ethereum EOA Account with few Ethers on Testnet (e.g. Rinkeby). You will need this to deploy and test smart contracts.
 
 ### Skills
 

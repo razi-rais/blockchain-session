@@ -16,6 +16,6 @@ Please have following software installated on your machine:
 
 ### Skills
 
-Basic understanding of Ethereum, including working with Geth or Parity and programming in Solidity.
+Working knowledge of Ethereum, including configuring Geth/Parity and programming in Solidity. Also, basic understanding of cryptography topics including hashing, encryption (RSA, ESCA etc) and digitial signatures is required.  
 
 

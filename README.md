@@ -4,7 +4,7 @@ Hands-on labs and other helpful resources for the attendees of blockchain sessio
 ## Prerequisites
 
 ### Software
-Please have following software installated on your machine:
+Please make sure following software is installated on your machine:
 
 * Git (https://git-scm.com)
 * Metamask (https://metamask.io)
